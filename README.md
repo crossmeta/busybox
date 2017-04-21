@@ -12,7 +12,7 @@ For example to get the Description out of the System eventlog
 
 	# cmd /c wevtutil qe System /f:text |grep -A 2 Description:
 
-![Busybox Live](![busybox](https://cloud.githubusercontent.com/assets/1268351/25264139/f2eddb0c-2632-11e7-82d6-ed87c8aa529b.gif)
+![Busybox Live](https://cloud.githubusercontent.com/assets/1268351/25264139/f2eddb0c-2632-11e7-82d6-ed87c8aa529b.gif)
 
 ---------------
 #### What is busybox:
